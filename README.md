@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently a Data Scientist at HealthCare.com
+- Currently a graduate student at CUNI and UniSaarland, also a Data Scientist at HealthCare.com
 - Learning as much NLP as I can, especifically NLP for low resource language/tasks
 - Graduate admissions process geek
 - Check out my personal website: https://jjdv.xyz
